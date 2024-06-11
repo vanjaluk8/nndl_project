@@ -1,0 +1,9 @@
+# ignore everything in the dataset_32 folder
+dataset_32/*
+dataset_64/*
+test_32/*
+test_64/*
+main.ipynb
+*.h5
+
+.venv/
