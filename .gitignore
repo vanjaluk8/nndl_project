@@ -4,6 +4,7 @@ dataset_64/*
 test_32/*
 test_64/*
 main.ipynb
+main32.ipynb
 *.h5
 
 .venv/
